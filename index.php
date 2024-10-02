@@ -27,7 +27,7 @@
 					</div>
 					<div class="col-md-4">
 						<div class="thumbnail">
-	                        <img src="./img/view.png" alt="">
+	                        <img src="./img/edit.png" alt="">
 	                        <div class="caption">
 	                            <h3>VIEW EMPLOYEE</h3>
 	                            <a href="view.php" name="add" value="add" class="btn btn-block
