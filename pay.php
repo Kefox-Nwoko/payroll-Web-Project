@@ -73,9 +73,9 @@ $Salary = ($basic + $DA + $HRA + $MA + $overtime + $conveyence) - ($PF + $PT + $
 					<div class="col-xs-12">
                         <div class="panel panel-default">
                           <div class="panel-body">
-                                <h2 style="text-align: center;">ORGANIZATION NAME</h2>
-                                <h3 style="text-align: center;">2nd Floor, SMR RAJIV Estates,</h3>
-                                <h3 style="text-align: center;">Commercial Complex, Outer Ring Road</h3>
+                                <h2 style="text-align: center;">LENU INTEGRATED SERVICES</h2>
+                                <h3 style="text-align: center;">Plot 121, Block 3, Woji Federal Housing Estate</h3>
+                                <h3 style="text-align: center;">Woji, Port Harcourt, Rivers State</h3>
                           </div>
                         </div>
 					</div>

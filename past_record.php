@@ -49,7 +49,7 @@ $total_rows = mysqli_num_rows($result);
                     <div class="table-responsive">
                     <table class="table table-striped">
                         <thead>
-                            <th>Employee ID</th><th>Leaves</th><th>Overtime</th><th>conveyence</th><th>Date</th><th></th><th></th>
+                            <th>Employee ID</th><th>Leaves</th><th>Overtime</th><th>Transportation</th><th>Date</th><th></th><th></th>
                         </thead>
                         <tbody>
                             <?php 

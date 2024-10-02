@@ -41,8 +41,8 @@ if(!isset($_SESSION['user_name'])){
 
                             <div class="form-group"> <!-- Date input -->
                                 <input type="radio" name="gender"  value="male" > Male<br>
-                                <input type="radio" name="gender"  value="female"> Female<br>
-                                <input type="radio" name="gender"  value="other"> Other
+                                <input type="radio" name="gender"  value="female"> Female
+                                <!-- <input type="radio" name="gender"  value="other"> Other -->
                             </div>
                                 
 

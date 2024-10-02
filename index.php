@@ -5,7 +5,7 @@
 <html lang="en">
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Index | Payroll</title>
+        <title>Index | Lenu Integrated Services Payroll</title>
 		<link href="css/bootstrap.css" rel="stylesheet">
         <link href="css/style.css" rel="stylesheet">
         <script src="js/jquery.js"></script>
@@ -63,12 +63,12 @@
 
 									<div class="form-group">
 										<label for="overtime">Overtime:</label>
-										<input type="text" class="form-control" placeholder="overtime in hours." name="overtime" required>
+										<input type="text" class="form-control" placeholder="Overtime in hours." name="overtime" required>
 									</div>
 
 									<div class="form-group">
-										<label for="Conveyence">Conveyence</label>
-										<input type="text" class="form-control" placeholder="Conveyence" name="conveyence" required>
+										<label for="Conveyence">Transportation</label>
+										<input type="text" class="form-control" placeholder="Transportation amount" name="conveyence" required>
 									</div>
 										<h3 class="text-danger" style="text-align:center;">
 											<?php
